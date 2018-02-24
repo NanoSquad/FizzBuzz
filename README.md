@@ -8,6 +8,7 @@ At the top of every file, please include:
  - Your name (if you weren't the creator of the file, list your name under "Contributors")
  - The date it was created
  - Brief description of the program
+
 This makes it nicer to work with in a text editor
 
 That's all!

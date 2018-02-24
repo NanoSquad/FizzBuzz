@@ -1,4 +1,5 @@
 This is a repository for any code you want to share with the class, be it something that's useful, or just cool :)
+Please upload code to the /shared folder for now, or you can create new folders if necessary.
 
 Standards: 
 The standards aren't strict, but you should follow basic coding practices (descriptive names for variables, etc.)
